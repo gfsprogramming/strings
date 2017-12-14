@@ -1,2 +1,2 @@
-# strings
-Learning about strings
+# Learn String Manipulation
+For some examples, open examples.py
